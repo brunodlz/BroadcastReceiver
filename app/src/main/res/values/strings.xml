@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="xml">BroadcasReceiver_XML</string>
+    <string name="api">BroadcasReceiver_API</string>
+    <string name="startActivity">BroadcasReceiver_START_ACTIVITY</string>
+    <string name="title_activity_start">Start Activity</string>
+
+</resources>
